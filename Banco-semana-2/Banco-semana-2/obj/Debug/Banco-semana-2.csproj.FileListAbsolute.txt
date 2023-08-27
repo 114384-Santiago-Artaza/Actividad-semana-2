@@ -1,0 +1,11 @@
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\bin\Debug\Banco-semana-2.exe.config
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\bin\Debug\Banco-semana-2.exe
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\bin\Debug\Banco-semana-2.pdb
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\obj\Debug\Banco-semana-2.csproj.AssemblyReference.cache
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\obj\Debug\Banco-semana-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\obj\Debug\Banco_semana_2.Properties.Resources.resources
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\obj\Debug\Banco-semana-2.csproj.GenerateResource.cache
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\obj\Debug\Banco-semana-2.csproj.CoreCompileInputs.cache
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\obj\Debug\Banco-semana-2.exe
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\obj\Debug\Banco-semana-2.pdb
+C:\Users\Sarie\source\repos\Banco-semana-2\Banco-semana-2\obj\Debug\Banco_semana_2.Cuentas.resources
